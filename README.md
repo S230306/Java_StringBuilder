@@ -49,4 +49,22 @@ void trimToSize(): This method attempts to reduce storage used for the character
 
 ![Capture](https://user-images.githubusercontent.com/99464989/230714002-215ba16f-1a8f-4494-9fdc-01e7c04ef8e5.PNG)
 ![Capture](https://user-images.githubusercontent.com/99464989/230714055-d4f925fd-19cd-42fa-af0f-822ec74f1c0c.PNG)
+StringBuilder append() Method in Java With Examples
+The java.lang.StringBuilder.append() method is used to append the string representation of some argument to the sequence. There are 13 ways/forms in which the append() method can be used by the passing of various types of arguments:
 
+StringBuilder append(boolean a) :The java.lang.StringBuilder.append(boolean a) is an inbuilt method in Java which is used to append the string representation of the boolean argument to a given sequence.
+Syntax :
+
+public StringBuilder append(boolean a)
+Parameter: This method accepts a single parameter a of boolean type and refers to the Boolean value to be appended.
+Return Value: The method returns a reference to this object.
+
+Examples:
+
+Input: 
+string_buffer = "We are Indians" 
+boolean a = true
+
+Output: We are Indians true
+Below program illustrates the java.lang.StringBuilder.append() method:
+![Capture](https://user-images.githubusercontent.com/99464989/230736995-ecf04953-76d1-4bda-a0df-0d69aeb86e1b.PNG
