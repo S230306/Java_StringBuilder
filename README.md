@@ -11,7 +11,7 @@ Below is a sample program to illustrate StringBuilder in Java.
 ![Capture](https://user-images.githubusercontent.com/99464989/230713930-2741a24d-afc0-4824-80b5-fb3d8a2c6de5.PNG)
 
 
-                                         Methods in Java StringBuilder![Capture](https://user-images.githubusercontent.com/99464989/230713969-b0f4be1c-0d66-4a6b-985c-b36f1a54f7ee.PNG)
+                        
 
 StringBuilder append(X x): This method appends the string representation of the X type argument to the sequence.
 StringBuilder appendCodePoint(int codePoint): This method appends the string representation of the codePoint argument to this sequence.
